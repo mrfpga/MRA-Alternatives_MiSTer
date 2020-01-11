@@ -1,0 +1,39 @@
+<misterromdescription>
+  <name>Tongy Paccy</name>
+  <mameversion>0217</mameversion>
+  <setname>tongypac</setname>
+  <year>1981</year>
+  <manufacturer>Grand Master Peter</manufacturer>
+  <category>Maze / Monkeys</category>
+  <category>Platform</category>
+  <category>Platform / Mario Bros.</category>
+  <rbf>CrazyKong</rbf>
+  <rom index="0" zip="/hbmame/ckong.zip" md5="94c9e7d14613d546c1567f8765840b3f" type="merged">
+    <part crc="2171cac3" name="falcon7"/>
+    <part crc="88b83ff7" name="falcon8"/>
+    <part crc="cff2af47" name="falcon9"/>
+    <part crc="520fa4de" name="tongypac/ck10.bin"/>
+    <part crc="d1db1bb0" name="tongypac/md5l.bin"/>
+    <part repeat="4096">00</part>
+    <part repeat="4096">00</part>
+    <part repeat="4096">00</part>
+    <part repeat="4096">00</part>
+    <part repeat="4096">00</part>
+    <part repeat="4096">00</part>
+    <part repeat="4096">00</part>
+    <part repeat="4096">00</part>
+    <part repeat="4096">00</part>
+    <part repeat="4096">00</part>
+    <part repeat="4096">00</part>
+    <part crc="918e3c52" name="tongypac/tpac6.bin"/>
+    <part crc="2bbc69e7" name="tongypac/tpac5.bin"/>
+    <part crc="8d5890b6" name="tongypac/tpac4.bin"/>
+    <part crc="6b16145b" name="tongypac/tpac3.bin"/>
+    <part crc="f67c80f1" name="falcon2"/>
+    <part crc="80eb517d" name="falcon1"/>
+    <part crc="f67c80f1" name="falcon2"/>
+    <part crc="80eb517d" name="falcon1"/>
+    <part crc="5f0bcdfb" name="falcon13"/>
+    <part crc="2eb23b60" name="tongypac/ck12.bin"/>
+  </rom>
+</misterromdescription>
